@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/gloss/sys_exit.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/shutdown.h
+
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/shutdown.h:

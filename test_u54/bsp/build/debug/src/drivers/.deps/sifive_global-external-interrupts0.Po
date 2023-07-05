@@ -1,0 +1,5 @@
+src/drivers/sifive_global-external-interrupts0.o: \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/sifive_global-external-interrupts0.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:
