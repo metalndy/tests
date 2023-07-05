@@ -1,7 +1,6 @@
-src/timer.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/timer.c \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/cpu.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/interrupt.h \
+src/timer.o: C:/Users/Igor/git/tests/test_u54/freedom-metal/src/timer.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/cpu.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/interrupt.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\stdint.h \
@@ -11,22 +10,22 @@ src/timer.o: \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_intsup.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h \
  metal/machine.h metal/machine/platform.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/fixed-clock.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/clock.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/compiler.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/memory.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/riscv_clint0.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/riscv_cpu.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/riscv_plic0.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/pmp.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/sifive_test0.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/shutdown.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/sifive_uart0.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/sifive_gpio0.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/gpio.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/io.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/uart.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/timer.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/fixed-clock.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/clock.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/compiler.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/memory.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/riscv_clint0.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/riscv_cpu.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/riscv_plic0.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/pmp.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/sifive_test0.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/shutdown.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/sifive_uart0.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/sifive_gpio0.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/gpio.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/io.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/uart.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/timer.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\time.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_ansi.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\newlib-nano\newlib.h \
@@ -55,9 +54,9 @@ src/timer.o: \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_time.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\times.h
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/cpu.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/cpu.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/interrupt.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/interrupt.h:
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:
 
@@ -79,37 +78,37 @@ metal/machine.h:
 
 metal/machine/platform.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/fixed-clock.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/fixed-clock.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/clock.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/clock.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/compiler.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/compiler.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/memory.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/memory.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/riscv_clint0.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/riscv_clint0.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/riscv_cpu.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/riscv_cpu.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/riscv_plic0.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/riscv_plic0.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/pmp.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/pmp.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/sifive_test0.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/sifive_test0.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/shutdown.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/shutdown.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/sifive_uart0.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/sifive_uart0.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/drivers/sifive_gpio0.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/drivers/sifive_gpio0.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/gpio.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/gpio.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/io.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/io.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/uart.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/uart.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/timer.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/timer.h:
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\time.h:
 

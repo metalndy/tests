@@ -1,5 +1,4 @@
-src/init.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/init.c \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/init.h
+src/init.o: C:/Users/Igor/git/tests/test_u54/freedom-metal/src/init.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/init.h
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/init.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/init.h:

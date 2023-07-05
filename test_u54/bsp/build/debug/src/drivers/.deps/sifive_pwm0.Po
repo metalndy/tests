@@ -1,5 +1,5 @@
 src/drivers/sifive_pwm0.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/drivers/sifive_pwm0.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/sifive_pwm0.c \
  metal/machine/platform.h
 
 metal/machine/platform.h:

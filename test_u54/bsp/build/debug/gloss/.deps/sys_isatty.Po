@@ -1,5 +1,5 @@
 gloss/sys_isatty.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/gloss/sys_isatty.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/gloss/sys_isatty.c \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\unistd.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\unistd.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_ansi.h \

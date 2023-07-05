@@ -1,8 +1,7 @@
-src/clock.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/clock.c \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/clock.h \
+src/clock.o: C:/Users/Igor/git/tests/test_u54/freedom-metal/src/clock.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/clock.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/clock.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/clock.h:
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:

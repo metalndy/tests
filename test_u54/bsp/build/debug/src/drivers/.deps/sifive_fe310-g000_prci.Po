@@ -1,5 +1,5 @@
 src/drivers/sifive_fe310-g000_prci.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/drivers/sifive_fe310-g000_prci.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/sifive_fe310-g000_prci.c \
  metal/machine/platform.h
 
 metal/machine/platform.h:

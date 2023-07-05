@@ -1,5 +1,5 @@
 gloss/sys_write.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/gloss/sys_write.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/gloss/sys_write.c \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\errno.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\errno.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\reent.h \
@@ -14,7 +14,7 @@ gloss/sys_write.o: \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_types.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_default_types.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\lock.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/tty.h \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/tty.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\types.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\cdefs.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_stdint.h \
@@ -59,7 +59,7 @@ c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\lock.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/tty.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/tty.h:
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\types.h:
 

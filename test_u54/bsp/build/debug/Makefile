@@ -22,7 +22,7 @@
 ########################################################
 
 
-VPATH = /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal
+VPATH = /c/Users/Igor/git/tests/test_u54/freedom-metal
 am__is_gnu_make = { \
   if test -z '$(MAKELEVEL)'; then \
     false; \
@@ -354,20 +354,20 @@ distuninstallcheck_listfiles = find . -type f -print
 am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \
   | sed 's|^\./|$(prefix)/|' | grep -v '$(infodir)/dir$$'
 distcleancheck_listfiles = find . -type f -print
-ACLOCAL = ${SHELL} /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/missing aclocal-1.15
+ACLOCAL = ${SHELL} /c/Users/Igor/git/tests/test_u54/freedom-metal/missing aclocal-1.15
 AMTAR = $${TAR-tar}
 AM_DEFAULT_VERBOSITY = 1
 AR = riscv64-unknown-elf-ar
-AUTOCONF = ${SHELL} /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/missing autoconf
-AUTOHEADER = ${SHELL} /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/missing autoheader
-AUTOMAKE = ${SHELL} /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/missing automake-1.15
+AUTOCONF = ${SHELL} /c/Users/Igor/git/tests/test_u54/freedom-metal/missing autoconf
+AUTOHEADER = ${SHELL} /c/Users/Igor/git/tests/test_u54/freedom-metal/missing autoheader
+AUTOMAKE = ${SHELL} /c/Users/Igor/git/tests/test_u54/freedom-metal/missing automake-1.15
 AWK = gawk
 CC = riscv64-unknown-elf-gcc
 CCAS = riscv64-unknown-elf-gcc
 CCASDEPMODE = depmode=gcc3
-CCASFLAGS = -march=rv64imafdcsu -mabi=lp64d -mcmodel=medany -ffunction-sections -fdata-sections -I/C/Users/Igor/wsFreedomStudio/test_u54/bsp/install/include --specs=nano.specs -DMTIME_RATE_HZ_DEF=10000000 -O0 -g
+CCASFLAGS = -march=rv64imafdcsu -mabi=lp64d -mcmodel=medany -ffunction-sections -fdata-sections -I/c/Users/Igor/git/tests/test_u54/bsp/install/include --specs=nano.specs -DMTIME_RATE_HZ_DEF=10000000 -O0 -g
 CCDEPMODE = depmode=gcc3
-CFLAGS = -march=rv64imafdcsu -mabi=lp64d -mcmodel=medany -ffunction-sections -fdata-sections -I/C/Users/Igor/wsFreedomStudio/test_u54/bsp/install/include --specs=nano.specs -DMTIME_RATE_HZ_DEF=10000000 -O0 -g
+CFLAGS = -march=rv64imafdcsu -mabi=lp64d -mcmodel=medany -ffunction-sections -fdata-sections -I/c/Users/Igor/git/tests/test_u54/bsp/install/include --specs=nano.specs -DMTIME_RATE_HZ_DEF=10000000 -O0 -g
 CPPFLAGS = 
 CYGPATH_W = cygpath -w
 DEFS = -DPACKAGE_NAME=\"freedom-metal\" -DPACKAGE_TARNAME=\"freedom-metal\" -DPACKAGE_VERSION=\"v0.1.2\" -DPACKAGE_STRING=\"freedom-metal\ v0.1.2\" -DPACKAGE_BUGREPORT=\"https://github.com/sifive/freedom-metal/issues\" -DPACKAGE_URL=\"https://github.com/sifive/freedom-metal\" -DPACKAGE=\"freedom-metal\" -DVERSION=\"v0.1.2\"
@@ -385,10 +385,10 @@ LDFLAGS =
 LIBOBJS = 
 LIBS = 
 LTLIBOBJS = 
-MACHINE_HEADER = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/metal.h
-MACHINE_INLINE = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/metal-inline.h
+MACHINE_HEADER = /c/Users/Igor/git/tests/test_u54/bsp/metal.h
+MACHINE_INLINE = /c/Users/Igor/git/tests/test_u54/bsp/metal-inline.h
 MAINT = #
-MAKEINFO = ${SHELL} /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/missing makeinfo
+MAKEINFO = ${SHELL} /c/Users/Igor/git/tests/test_u54/freedom-metal/missing makeinfo
 MKDIR_P = /usr/bin/mkdir -p
 OBJEXT = o
 PACKAGE = freedom-metal
@@ -399,16 +399,16 @@ PACKAGE_TARNAME = freedom-metal
 PACKAGE_URL = https://github.com/sifive/freedom-metal
 PACKAGE_VERSION = v0.1.2
 PATH_SEPARATOR = :
-PLATFORM_HEADER = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/metal-platform.h
+PLATFORM_HEADER = /c/Users/Igor/git/tests/test_u54/bsp/metal-platform.h
 RANLIB = riscv64-unknown-elf-ranlib
 SET_MAKE = 
 SHELL = /bin/sh
 STRIP = riscv64-unknown-elf-strip
 VERSION = v0.1.2
-abs_builddir = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/build/debug
-abs_srcdir = /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal
-abs_top_builddir = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/build/debug
-abs_top_srcdir = /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal
+abs_builddir = /c/Users/Igor/git/tests/test_u54/bsp/build/debug
+abs_srcdir = /c/Users/Igor/git/tests/test_u54/freedom-metal
+abs_top_builddir = /c/Users/Igor/git/tests/test_u54/bsp/build/debug
+abs_top_srcdir = /c/Users/Igor/git/tests/test_u54/freedom-metal
 ac_ct_AR = 
 ac_ct_CC = 
 am__include = include
@@ -436,8 +436,8 @@ host_vendor = unknown
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = ${SHELL} /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/install-sh
-libdir = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/install/lib/debug
+install_sh = ${SHELL} /c/Users/Igor/git/tests/test_u54/freedom-metal/install-sh
+libdir = /c/Users/Igor/git/tests/test_u54/bsp/install/lib/debug
 libexecdir = ${exec_prefix}/libexec
 localedir = ${datarootdir}/locale
 localstatedir = ${prefix}/var
@@ -445,18 +445,18 @@ mandir = ${datarootdir}/man
 mkdir_p = $(MKDIR_P)
 oldincludedir = /usr/include
 pdfdir = ${docdir}
-prefix = /C/Users/Igor/wsFreedomStudio/test_u54/bsp/install
+prefix = /c/Users/Igor/git/tests/test_u54/bsp/install
 program_transform_name = s,x,x,
 psdir = ${docdir}
 runstatedir = ${localstatedir}/run
 sbindir = ${exec_prefix}/sbin
 sharedstatedir = ${prefix}/com
-srcdir = /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal
+srcdir = /c/Users/Igor/git/tests/test_u54/freedom-metal
 sysconfdir = ${prefix}/etc
 target_alias = 
 top_build_prefix = 
 top_builddir = .
-top_srcdir = /C/Users/Igor/wsFreedomStudio/test_u54/freedom-metal
+top_srcdir = /c/Users/Igor/git/tests/test_u54/freedom-metal
 
 ########################################################
 # Metal header files
@@ -1429,15 +1429,15 @@ uninstall-am: uninstall-libLIBRARIES uninstall-nobase_includeHEADERS
 .PRECIOUS: Makefile
 
 
-metal/machine.h: /C/Users/Igor/wsFreedomStudio/test_u54/bsp/metal.h
+metal/machine.h: /c/Users/Igor/git/tests/test_u54/bsp/metal.h
 	@mkdir -p $(dir $@)
 	cp $< $@
 
-metal/machine/inline.h: /C/Users/Igor/wsFreedomStudio/test_u54/bsp/metal-inline.h
+metal/machine/inline.h: /c/Users/Igor/git/tests/test_u54/bsp/metal-inline.h
 	@mkdir -p $(dir $@)
 	cp $< $@
 
-metal/machine/platform.h: /C/Users/Igor/wsFreedomStudio/test_u54/bsp/metal-platform.h
+metal/machine/platform.h: /c/Users/Igor/git/tests/test_u54/bsp/metal-platform.h
 	@mkdir -p $(dir $@)
 	cp $< $@
 

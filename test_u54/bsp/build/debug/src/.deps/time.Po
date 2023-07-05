@@ -1,6 +1,5 @@
-src/time.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/time.c \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/time.h \
+src/time.o: C:/Users/Igor/git/tests/test_u54/freedom-metal/src/time.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/time.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\time.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\_ansi.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\newlib-nano\newlib.h \
@@ -32,9 +31,9 @@ src/time.o: \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\_locale.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\sys\time.h \
  c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_time.h \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/timer.h
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/timer.h
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/time.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/time.h:
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\time.h:
 
@@ -98,4 +97,4 @@ c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.
 
 c:\users\igor\risc-v\freedomstudio\sifive\riscv64-unknown-elf-gcc-8.3.0-2020.04.1\riscv64-unknown-elf\include\machine\_time.h:
 
-C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/metal/timer.h:
+C:/Users/Igor/git/tests/test_u54/freedom-metal/metal/timer.h:

@@ -1,5 +1,5 @@
 src/drivers/sifive_gpio-leds.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/drivers/sifive_gpio-leds.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/sifive_gpio-leds.c \
  metal/machine/platform.h
 
 metal/machine/platform.h:

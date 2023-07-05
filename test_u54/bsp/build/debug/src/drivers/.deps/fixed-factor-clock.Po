@@ -1,5 +1,5 @@
 src/drivers/fixed-factor-clock.o: \
- C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/drivers/fixed-factor-clock.c \
+ C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/fixed-factor-clock.c \
  metal/machine/platform.h
 
 metal/machine/platform.h:
