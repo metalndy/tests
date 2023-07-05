@@ -1,0 +1,1 @@
+src/scrub.o: C:/Users/Igor/git/tests/test_u54/freedom-metal/src/scrub.S
