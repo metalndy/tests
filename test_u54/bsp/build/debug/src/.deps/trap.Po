@@ -1,1 +1,0 @@
-src/trap.o: C:/Users/Igor/git/tests/test_u54/freedom-metal/src/trap.S

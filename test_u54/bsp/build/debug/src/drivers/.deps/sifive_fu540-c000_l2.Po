@@ -1,5 +1,0 @@
-src/drivers/sifive_fu540-c000_l2.o: \
- C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/sifive_fu540-c000_l2.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:

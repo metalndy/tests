@@ -1,5 +1,0 @@
-src/drivers/sifive_fe310-g000_lfrosc.o: \
- C:/Users/Igor/git/tests/test_u54/freedom-metal/src/drivers/sifive_fe310-g000_lfrosc.c \
- metal/machine/platform.h
-
-metal/machine/platform.h:
