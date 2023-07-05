@@ -4,6 +4,9 @@
 # Metadata
 .metadata/
 
+# Documents
+doc/
+
 # Prerequisites
 *.d
 
