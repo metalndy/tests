@@ -1,0 +1,5 @@
+src/drivers/sifive_i2c0.o: \
+ C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/drivers/sifive_i2c0.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

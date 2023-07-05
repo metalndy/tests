@@ -1,0 +1,2 @@
+src/vector.o: \
+ C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/vector.S

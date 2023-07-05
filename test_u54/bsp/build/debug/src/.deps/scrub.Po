@@ -1,0 +1,2 @@
+src/scrub.o: \
+ C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/scrub.S

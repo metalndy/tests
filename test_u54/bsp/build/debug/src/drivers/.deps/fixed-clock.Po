@@ -1,0 +1,5 @@
+src/drivers/fixed-clock.o: \
+ C:/Users/Igor/wsFreedomStudio/test_u54/freedom-metal/src/drivers/fixed-clock.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:
